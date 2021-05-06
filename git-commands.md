@@ -21,3 +21,6 @@ control.
 
 **_Tip:_** You should make small and frequent commits when working on your
 projects.
+
+Work with these commmands every day and they will become apart of you (like the
+force).
