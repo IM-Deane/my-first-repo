@@ -1,0 +1,9 @@
+
+// We have created a top level program that serves as an entry point for my application.
+// We got rid of all the "boilerplate" code.
+
+// This a new feature that is apart of C# version 9
+// We have access because we're using .NET Core 5 as the basis framework for our
+// development.
+
+System.Console.WriteLine("Hello World!");
